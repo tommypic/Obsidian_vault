@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AAPP/Riassunto.md",
+                "file": "AAPP/Randomized based algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Riassunto"
+              "title": "Randomized based algorithms"
+            }
+          },
+          {
+            "id": "96a0d9dd45604520",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AAPP/Sort.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sort"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "84dbb502e671a484",
@@ -160,20 +176,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "vim-toggle:Toggle Vim Mode": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "vim-toggle:Toggle Vim Mode": false
     }
   },
-  "active": "c82eed5cd722d96b",
+  "active": "96a0d9dd45604520",
   "lastOpenFiles": [
+    "Pasted image 20251104191700.png",
+    "AAPP/Mincut Algorithm.md",
+    "AAPP/Sort.md",
+    "Pasted image 20251104182335.png",
+    "Pasted image 20251104181749.png",
+    "Pasted image 20251104180332.png",
+    "AAPP/Randomized based algorithms.md",
+    "Pasted image 20251104174250.png",
+    "Pasted image 20251104174232.png",
+    "AAPP/Pram.md",
+    "AAPP/Randomized Data Structures.md",
+    "Pasted image 20251104162340.png",
+    "Pasted image 20251104162324.png",
+    "Pasted image 20251104162313.png",
+    "Pasted image 20251104161430.png",
+    "Pasted image 20251104161404.png",
     "AOS/slides.pdf",
-    "AAPP/Riassunto.md",
     "AAPP",
     "AOS",
     "AOS/Untitled.md",
