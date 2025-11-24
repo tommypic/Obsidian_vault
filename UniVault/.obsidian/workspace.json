@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4bca8a3c242abf44",
+        "id": "5262f27fe21b9fe4",
         "type": "tabs",
         "children": [
           {
-            "id": "96a0d9dd45604520",
+            "id": "974a6612720fd881",
             "type": "leaf",
             "state": {
               "type": "pdf-annotator",
               "state": {
-                "file": "AOS/Boot.md"
+                "file": "AOS/Untitled.md"
               },
               "icon": "lucide-file",
-              "title": "Boot"
+              "title": "Untitled"
             }
           }
         ]
@@ -169,15 +169,18 @@
       "vim-toggle:Toggle Vim Mode": false
     }
   },
-  "active": "96a0d9dd45604520",
+  "active": "974a6612720fd881",
   "lastOpenFiles": [
-    "AOS/Slides io.md",
-    "AOS/Boot.md",
-    "AAPP/Randomized based algorithms.md",
+    "AOS/slides.kvm.pdf",
     "AOS/Untitled.md",
+    "AOS/Boot.md",
+    "AOS/Slides io.md",
     "AOS/slides.boot.pdf",
+    "AOS/io.md",
     "AOS/slides.io.pdf",
     "AOS/slides.pdf",
+    "AAPP/Randomized based algorithms.md",
+    "AAPP/Pram.md",
     "AAPP/Sort.md",
     "Pasted image 20251104191700.png",
     "AAPP/Mincut Algorithm.md",
@@ -186,7 +189,6 @@
     "Pasted image 20251104180332.png",
     "Pasted image 20251104174250.png",
     "Pasted image 20251104174232.png",
-    "AAPP/Pram.md",
     "AAPP/Randomized Data Structures.md",
     "Pasted image 20251104162340.png",
     "Pasted image 20251104162324.png",
